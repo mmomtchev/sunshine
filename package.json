@@ -1,0 +1,29 @@
+{
+  "name": "sunshine",
+  "version": "1.0.0",
+  "description": "Sunshine on a slope hour by hour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmomtchev/sunshine.git"
+  },
+  "keywords": [
+    "sunshine",
+    "suncalc",
+    "paragliding",
+    "slope",
+    "soaring"
+  ],
+  "author": "Momtchil Momtchev <momtchil@momtchev.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmomtchev/sunshine/issues"
+  },
+  "homepage": "https://github.com/mmomtchev/sunshine#readme",
+  "dependencies": {
+    "suncalc": "^1.9.0"
+  }
+}
